@@ -1,0 +1,10 @@
+#JobList {
+    display: block;
+    margin: auto;
+    width: 90%;
+}
+
+#JobList-form {
+    margin: auto;
+    width: 20%;
+}

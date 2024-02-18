@@ -1,0 +1,17 @@
+#SignupForm {
+    border: 1px solid black;
+    display: block;
+    width: 30%;
+    margin: auto;
+}
+
+#lbl {
+    float: left;
+    margin-left: 5%;
+}
+
+#inpt {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
